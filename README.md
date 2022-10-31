@@ -29,6 +29,6 @@ main.ipynb             | главный скрипт
 
 
   **Telegram**: @iis_diink, @Boombotts, @vitykos \
-  **VK**: [vk.com/seelova](https://vk.com/iss_diink), [vk.com/boomsbott](https://vk.com/boomsbott), [vk.com/vitykos](https://vk.com/vitykos) \
+  **VK**: [vk.com/seelova](https://vk.com/iss_diink), [vk.com/boomsbott](https://vk.com/boomsbott), [vk.com/vitykos](https://vk.com/vitykos) 
   
   
